@@ -34,7 +34,7 @@
 }
 
 #bio-container {
-  flex: 0,4  20%;
+  flex: 0,4 1 20%;
   min-height: 100vh;
   background-color: var(--bio-bg-color);
   text-align: center;
@@ -43,6 +43,6 @@
 }
 
 #bio-container img {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
