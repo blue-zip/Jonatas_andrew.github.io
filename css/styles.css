@@ -42,11 +42,12 @@
   border-right: 5px solid var(--bio-border-color);
 }
 
-#about-containe {
-  flex: 2 1 90%;
-  min-height: 100vh;
-  background-color: var(--about-bg-color);
-  padding: 50px;
+/* NOVA CAIXA */
+.bio-box {
+  background-color: #1f3a5f; /* outro tom de azul */
+  padding: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
 }
 
 #bio-container img {
