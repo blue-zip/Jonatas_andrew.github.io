@@ -42,6 +42,13 @@
   border-right: 5px solid var(--bio-border-color);
 }
 
+#about-containe {
+  flex: 1 1 90%;
+  min-height: 100vh;
+  background-color: var(--about-bg-color);
+  padding: 50px;
+}
+
 #bio-container img {
   width: 150px;
   height: 150px;
