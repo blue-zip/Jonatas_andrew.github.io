@@ -34,12 +34,9 @@
 }
 
 #bio-container {
-  flex: 0 1 10%;
+  background-color: var(--bio-bg-color); /* azul escuro */
   min-height: 100vh;
-  background-color: var(--bio-bg-color);
-  text-align: center;
-  padding: 20px 12px;
-  border-right: 5px solid var(--bio-border-color);
+  padding: 20px;
 }
 
 /* NOVA CAIXA */
@@ -49,6 +46,7 @@
   border-radius: 10px;
   margin-top: 20px;
 }
+
 
 #bio-container img {
   width: 150px;
