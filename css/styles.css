@@ -42,7 +42,7 @@
   border-right: 5px solid var(--bio-border-color);
 }
 
-#about-containe {
+#about-container {
   flex: 1 1 90%;
   height: 100vh;
   background-color: var(--about-bg-color);
