@@ -43,7 +43,7 @@
 }
 
 #about-containe {
-  flex: 1 1 90%;
+  flex: 2 1 90%;
   min-height: 100vh;
   background-color: var(--about-bg-color);
   padding: 50px;
