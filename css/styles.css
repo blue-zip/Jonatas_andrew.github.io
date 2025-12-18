@@ -1,13 +1,13 @@
 /* Reset */
 body {
-  padding: 0;
-  margin: 0;
+  padding: 1;
+  margin: 1;
   font-family: "Roboto", sans-serif;
   box-sizing: border-box;
 }
 
 .highlight {
-  color: #7b5cff; /* exemplo */
+  color: #7b5cff; 
   font-weight: bold;
 }
 
