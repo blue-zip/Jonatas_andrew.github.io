@@ -85,3 +85,16 @@
   justify-content: center; /* centraliza tudo */
   gap: 10px; /* espaço entre ícone e texto */
 }
+
+#social-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+#social-container li a {
+  color: var(--main-color);
+  font-size: 30px;
+}
