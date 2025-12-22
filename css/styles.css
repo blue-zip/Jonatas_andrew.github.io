@@ -35,7 +35,7 @@
 }
 
 #bio-container {
-  flex: 0 1 20%;
+  flex: 0 1 10%;
   min-height: 100vh;
   background-color: var(--bio-bg-color);
   text-align: center;
@@ -79,3 +79,9 @@
   display: inline-flex;
 }
 
+#email-container {
+  display: flex;
+  align-items: center; /* alinha verticalmente */
+  justify-content: center; /* centraliza tudo */
+  gap: 10px; /* espaço entre ícone e texto */
+}
