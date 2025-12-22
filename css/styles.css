@@ -98,3 +98,20 @@
   color: var(--main-color);
   font-size: 30px;
 }
+
+#email-container a {
+  color: var(--main--text-color);
+  text-decoration: none;
+  max-width: 225px;
+}
+
+#email-container ion-icon {
+  color: var(--main-color);
+  font-size: 20px;
+  margin-right: 5px;
+  max-width: 20px;
+}
+
+#social-container ion-icon {
+  color: var(--main-color);
+}
